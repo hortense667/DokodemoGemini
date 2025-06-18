@@ -9,8 +9,11 @@ https://ascii.jp/serialarticles/1225476/
 
 1. **DokodemoGemini**  
 DokodemoGPT02のGemini版です。
+GeminiのAPIは無料枠があるのでその範囲内であれば無料で使えます。
+ただし、レスポンスはOpenAIの有料枠よりも2テンポくらい遅いです。
+忙しくない人はこちら。
 
-2. **環境変数の設定**  
+3. **環境変数の設定**  
 - **GeminiのAPIキー**  
   GeminiのAPIキーを取得し、以下の環境変数をセットしてください。  
   `GEMINI_API_KEY`
