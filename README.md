@@ -8,18 +8,18 @@ https://ascii.jp/serialarticles/1225476/
 ## 説明
 
 1. **DokodemoGemini**  
-DokodemoGPT02のGemini版です。
-GeminiのAPIは無料枠があるのでその範囲内であれば無料で使えます。
-ただし、レスポンスはOpenAIの有料枠よりも2テンポくらい遅いです。
-忙しくない人はこちら。
+DokodemoGPT02のGemini版です。GeminiのAPIは無料枠があるのでその範囲内であれば無料で使えます。リリース直後はレスポンスが遅かったのですが、モデルを「Gemini 2.5 flash lite」に変更したことでDokodemoGPTに遜色ないスピードになりました。
 
-3. **環境変数の設定**  
+2. **環境変数の設定**  
 - **GeminiのAPIキー**  
   GeminiのAPIキーを取得し、以下の環境変数をセットしてください。  
   `GEMINI_API_KEY`
 
-3. **自動実行のための登録**  
-WindowsのスタートアップメニューにDokodemoGeminiahk.exeのショートカットを登録します。
+3. DokodemoGemini.zipの解凍
+DokodemoGeminiのリポジトリの「リリース」からdokodemogemini.zipをダウンロード。
+適切なフォルダに展開してください。
+DokodemoGeminiahk.exeを実行するとどこでもGeminiがいつでも使える状態となります。
+解凍ファイルのdistとフォルダとその中身は、DokodemoGeminiahk.exeのあるフォルダにそのまま置いてください。
 
 ## 使い方の手順
 
