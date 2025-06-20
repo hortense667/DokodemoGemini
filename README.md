@@ -16,10 +16,9 @@ DokodemoGPT02のGemini版です。GeminiのAPIは無料枠があるのでその�
   `GEMINI_API_KEY`
 
 3. **DokodemoGemini.zipの解凍**
-DokodemoGeminiのリポジトリの「リリース」からdokodemogemini.zipをダウンロード。
-適切なフォルダに展開してください。
-DokodemoGeminiahk.exeを実行するとどこでもGeminiがいつでも使える状態となります。
-解凍ファイルのdistとフォルダとその中身は、DokodemoGeminiahk.exeのあるフォルダにそのまま置いてください。
+- DokodemoGeminiのリポジトリの「リリース」からdokodemogemini.zipをダウンロード。適切なフォルダに展開してください。
+- DokodemoGeminiahk.exeを実行するとどこでもGeminiがいつでも使える状態となります。
+- 解凍ファイルのdistとフォルダとその中身は、DokodemoGeminiahk.exeのあるフォルダにそのまま置いてください。
 
 ## 使い方の手順
 
