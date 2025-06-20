@@ -15,10 +15,11 @@ DokodemoGPT02のGemini版です。GeminiのAPIは無料枠があるのでその�
   GeminiのAPIキーを取得し、以下の環境変数をセットしてください。  
   `GEMINI_API_KEY`
 
-3. **DokodemoGemini.zipの解凍**
-- DokodemoGeminiのリポジトリの「リリース」からdokodemogemini.zipをダウンロード。適切なフォルダに展開してください。
-- DokodemoGeminiahk.exeを実行するとどこでもGeminiがいつでも使える状態となります。
-- 解凍ファイルのdistとフォルダとその中身は、DokodemoGeminiahk.exeのあるフォルダにそのまま置いてください。
+3. DokodemoGemini.zipの解凍
+DokodemoGeminiのリポジトリの「リリース」からdokodemogemini.zipをダウンロード。
+適切なフォルダに展開してください。
+DokodemoGeminiahk.exeを実行するとどこでもGeminiがいつでも使える状態となります。
+解凍ファイルのdistとフォルダとその中身は、DokodemoGeminiahk.exeのあるフォルダにそのまま置いてください。
 
 ## 使い方の手順
 
@@ -32,7 +33,8 @@ LLMで処理したいテキストを範囲選択してください。
 
 2-2. プロンプトの入力  
 `Win-Ctrl-o`を押すとプロンプト入力ウィンドウが現れるので、プロンプトを入力します。  
-例：「読みやすく」「要約して」「英訳して」「誤字・脱字をチェック」など  
+例：「読みやすく書き換えて」「要約して」「英訳して」「誤字・脱字をチェック」など 。
+※「どんな人？/w」などと最後に「/w」をつけるとWeb検索して最初の3つのサイトの冒頭1000文字を参考に答えます。
 ※長いプロンプトを与える場合は姉妹ソフトDokodemoPromptがあります。
 
 3. **内容確認**  
