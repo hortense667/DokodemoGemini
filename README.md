@@ -15,7 +15,7 @@ DokodemoGPT02のGemini版です。GeminiのAPIは無料枠があるのでその�
   GeminiのAPIキーを取得し、以下の環境変数をセットしてください。  
   `GEMINI_API_KEY`
 
-3. DokodemoGemini.zipの解凍
+3. **DokodemoGemini.zipの解凍**
 DokodemoGeminiのリポジトリの「リリース」からdokodemogemini.zipをダウンロード。
 適切なフォルダに展開してください。
 DokodemoGeminiahk.exeを実行するとどこでもGeminiがいつでも使える状態となります。
