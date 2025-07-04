@@ -1,5 +1,11 @@
 # DokodemoGemini
 
+--------------------------------------------------------
+このソフトウェアは、DokodemoLLM に統合されました。
+https://github.com/hortense667/DokodemoLLM
+--------------------------------------------------------
+
+
 This software allows you to call Gemini LLM from within any application.  
 (c) 2025 Satoshi Endo  
 https://x.com/hortense667
